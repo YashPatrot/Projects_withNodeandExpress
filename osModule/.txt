@@ -1,0 +1,100 @@
+
+yashypatrot@yashypatrot MINGW64 ~/Desktop/NodeJS/osModule
+$ node osmodule.js
+[
+  {
+    model: '11th Gen Intel(R) Core(TM) i5-1135G7 @ 2
+.40GHz',
+    speed: 2419,
+    times: {
+      user: 2968546,
+      nice: 0,
+      sys: 3254312,
+      idle: 149935625,
+      irq: 441687
+    }
+  },
+  {
+    model: '11th Gen Intel(R) Core(TM) i5-1135G7 @ 2
+.40GHz',
+    speed: 2419,
+    times: {
+      user: 1878359,
+      nice: 0,
+      sys: 1332718,
+      idle: 152946796,
+      irq: 36609
+    }
+  },
+  {
+    model: '11th Gen Intel(R) Core(TM) i5-1135G7 @ 2
+.40GHz',
+    speed: 2419,
+    times: {
+      user: 3094046,
+      nice: 0,
+      sys: 1665968,
+      idle: 151397843,
+      irq: 37015
+    }
+  },
+  {
+    model: '11th Gen Intel(R) Core(TM) i5-1135G7 @ 2
+.40GHz',
+    speed: 2419,
+    times: {
+      user: 2160265,
+      nice: 0,
+      sys: 1093515,
+      idle: 152904093,
+      irq: 24250
+    }
+  },
+  {
+    model: '11th Gen Intel(R) Core(TM) i5-1135G7 @ 2
+.40GHz',
+    speed: 2419,
+    times: {
+      user: 2055937,
+      nice: 0,
+      sys: 1137640,
+      idle: 152964296,
+      irq: 24359
+    }
+  },
+  {
+    model: '11th Gen Intel(R) Core(TM) i5-1135G7 @ 2
+.40GHz',
+    speed: 2419,
+    times: {
+      user: 1705031,
+      nice: 0,
+      sys: 934765,
+      idle: 153518078,
+      irq: 17437
+    }
+  },
+  {
+    model: '11th Gen Intel(R) Core(TM) i5-1135G7 @ 2
+.40GHz',
+    speed: 2419,
+    times: {
+      user: 1841359,
+      nice: 0,
+      sys: 868890,
+      idle: 153447609,
+      irq: 16921
+    }
+  },
+  {
+    model: '11th Gen Intel(R) Core(TM) i5-1135G7 @ 2
+.40GHz',
+    speed: 2419,
+      user: 1598187,
+      nice: 0,
+      sys: 711687,
+      idle: 153847968,
+      irq: 11578
+    }
+  }
+]

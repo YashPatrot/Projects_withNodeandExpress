@@ -1,0 +1,9 @@
+GET http://localhost:3000/posts
+Content-Type: application/json
+User-Agent: Yash-Patrot 
+Accept-Language: en-us
+Connection: kept open 
+host:localhost/8000
+
+
+

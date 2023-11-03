@@ -1,0 +1,15 @@
+GET http://localhost:8000/get 
+Accept: application/json
+
+###
+POST http://localhost:8000/create
+Content-Type: application/javascript application/json application/zip
+
+
+
+
+{"name": "iphone 12 pro max",
+    "price": 1200,
+    "brand": "Apple",
+    "category": "American Mobiles",
+}
